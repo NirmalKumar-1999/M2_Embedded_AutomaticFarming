@@ -86,3 +86,9 @@ At Any Time it can be Used if Neccesary After Bulid the Circuit.
 | L_01 | Water Flows When No Water Detected |  NA | Motor OFF | LED OFF |Pass |
 | L_02 | Level of Water Varies Based on Land Humidity | NA | Varies Based on Land Humidity  | Varies Based on Land Humidity | Pass
 
+#Output
+
+
+![Automatic Irrigation](https://user-images.githubusercontent.com/94219350/144440952-00b79f08-ced3-49a2-81a7-b69c2b400837.png)
+
+
