@@ -1,4 +1,4 @@
-DOXY_FILE = SeatHeater
+DOXY_FILE = Water Flow
 BUILD_FILE = html
 
 ifdef OS
