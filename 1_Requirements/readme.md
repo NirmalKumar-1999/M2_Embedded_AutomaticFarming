@@ -2,14 +2,6 @@
 ##  Introduction
 One of the Most Important Problems faced by the World is Scarcity of Water. We Require a System Which uses Water Limitedly Without Any Wastage.Irrigation Systems which are Smart Measures the Moisture of Plant in Order to Operate an Automatic Irrigation System and that Reduces the Use of Excess Water. Automatic Irrigation System will Concentrate on Watering the Field Regularly by Using Moisture Sensor Without any Human Monitoring.
 
-## Features 
-
-- Participants Can Start the Quiz by Giving their Name.
-- Its an MCQ Type Quiz.
-- No Time for every question.
-- Its Provide Report of Questions and Answers.
-- Winner gets the rewards.
-
 
 ## 4W's and 1'H
 
