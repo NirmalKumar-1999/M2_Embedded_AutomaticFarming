@@ -1,15 +1,6 @@
-
 # Requirements
 ##  Introduction
 One of the Most Important Problems faced by the World is Scarcity of Water. We Require a System Which uses Water Limitedly Without Any Wastage.Irrigation Systems which are Smart Measures the Moisture of Plant in Order to Operate an Automatic Irrigation System and that Reduces the Use of Excess Water. Automatic Irrigation System will Concentrate on Watering the Field Regularly by Using Moisture Sensor Without any Human Monitoring.
-
-## Features 
-
-- Participants Can Start the Quiz by Giving their Name.
-- Its an MCQ Type Quiz.
-- No Time for every question.
-- Its Provide Report of Questions and Answers.
-- Winner gets the rewards.
 
 
 ## 4W's and 1'H
@@ -71,3 +62,27 @@ At Any Time it can be Used if Neccesary After Bulid the Circuit.
 | LLR_1 | Can't loaded More Than the System Specifications| IMPLEMENTED |
 |LLR_2 | The System Can Operated in Night also which Results in Minimum Amount of the Water| IMPLEMENTED |	
 |LLR_3 |Irrigation Process Starts and Stops When Needed Hence it Optimize Energy Requirements.| IMPLEMENTED |
+
+| High Level Diagram | Low Level Diagram |
+| ------------------ | ---------------- |
+| ![beh1](https://user-images.githubusercontent.com/94284577/144244702-6e67dd84-6774-41f6-8085-a36290305c10.png) | ![beh2](https://user-images.githubusercontent.com/94284577/144244747-66e86594-00d3-465b-aedc-988879b62570.jpg) |
+
+| High Level Diagram | Low Level Diagram |
+| ------------------ | ---------------- |
+| ![str1](https://user-images.githubusercontent.com/94284577/144245180-94a8565c-a7e0-46ed-8f23-4c329291ebe1.png) | ![str2](https://user-images.githubusercontent.com/94284577/144245192-79c365ba-cd1e-447e-b4a4-f0d112614875.png) |
+# TEST PLAN
+
+## High level test plan
+
+| **Test ID** | **Description** | **Exp I/P** | **Exp O/P** | **Actual O/P** |**Status**  |    
+|-------------|-----------------|------------|-------------|----------------|------------------|
+| H_01 | Motor ON When Land is Dry | NA | Motor ON | LED ON | Pass    |
+| H_02 | Motor OFF When Land Reaches Certain Water Level| NA | Motor OFF|LED OFF| Pass   |
+
+## Low level test plan
+
+| **Test ID** | **Description** | **Exp Input** | **Exp Output** | **Actual Output** |**Status**  |    
+|-------------|-----------------|------------|-------------|----------------|------------------|
+| L_01 | Water Flows When No Water Detected |  NA | Motor OFF | LED OFF |Pass |
+| L_02 | Level of Water Varies Based on Land Humidity | NA | Varies Based on Land Humidity  | Varies Based on Land Humidity | Pass
+
